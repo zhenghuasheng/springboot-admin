@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 /**
+ *
  * Created by zhenghuasheng on 2017/9/30.
  */
 @SpringBootApplication
